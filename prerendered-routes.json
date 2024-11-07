@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/adivina",
+    "/alma",
+    "/bienvenido",
+    "/cuestionario",
+    "/lobby",
+    "/memoria"
+  ]
+}
